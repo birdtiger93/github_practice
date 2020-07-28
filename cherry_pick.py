@@ -24,7 +24,7 @@ def main(*argv):
     print(cmd)
 
     # execute cherry-pick commands
-    os.system(cmd)
+    print(cmd)
 
 
 if __name__ == "__main__":
